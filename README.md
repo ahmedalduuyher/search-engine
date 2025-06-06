@@ -1,4 +1,4 @@
-# Simple Text Search Engines: TF-IDF & BERT Embeddings
+# Text Search Engines: TF-IDF & BERT Embeddings
 
 This repo contains two separate text search engines to find relevant documents or sentences in a JSON dataset:
 
