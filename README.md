@@ -1,6 +1,6 @@
 # Simple Text Search Engines: TF-IDF & BERT Embeddings
 
-This repo contains two separate text search engines to find relevant documents or sentences in a dataset:
+This repo contains two separate text search engines to find relevant documents or sentences in a JSON dataset:
 
 - **TF-IDF Search:** A classic, fast keyword-based search engine using `CountVectorizer` and TF-IDF weighting to rank documents based on keyword importance.
 - **BERT Search:** A semantic search engine using BERT embeddings from Hugging Face transformers to find contextually relevant results based on sentence meaning.
