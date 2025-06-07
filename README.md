@@ -2,7 +2,7 @@
 
 This repo contains two separate text search engines to find relevant documents or sentences in a JSON dataset:
 
-- **TF-IDF Search:** A classic, fast keyword-based search engine using `CountVectorizer` and TF-IDF weighting to rank documents based on keyword importance.
+- **TF-IDF Search:** A vector search engine using `CountVectorizer` and TF-IDF weighting to rank documents based on keyword importance.
 - **BERT Search:** A semantic search engine using BERT embeddings from Hugging Face transformers to find contextually relevant results based on sentence meaning.
 
 ### TF-IDF Search
